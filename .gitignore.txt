@@ -1,4 +1,4 @@
 .git
 PointOfSale_C_Sharp/bin
 PointOfSale_C_Shapr/obj
-Joe's Burgers Logo Splash Screen.jpg
+Joe's Burgers Logo Splash Screen.png
