@@ -1,4 +1,10 @@
 .git
+<<<<<<< HEAD
 PointOfSale_C_Sharp/bin/*
 PointOfSale_C_Shapr/obj/*
 Joe's Burgers Logo Splash Screen.png
+=======
+PointOfSale_C_Sharp/bin
+PointOfSale_C_Shapr/obj
+Joe's Burgers Logo Splash Screen.png
+>>>>>>> 2d2a660d1b3734e2aa256ff42b2195cd1031a21c

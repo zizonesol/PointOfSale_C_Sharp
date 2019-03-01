@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PointOfSale_C_Sharp
 {
-    public partial class Main : Form
+    public partial class CloseConfirm : Form
     {
-        public Main()
+        public CloseConfirm()
         {
             InitializeComponent();
         }
@@ -22,10 +22,14 @@ namespace PointOfSale_C_Sharp
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-            CloseConfirm close = new CloseConfirm();
-            close.Show();
+            Application.Exit();
+        }
+
+        private void NoButtn_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
