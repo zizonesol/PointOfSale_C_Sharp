@@ -27,5 +27,12 @@ namespace PointOfSale_C_Sharp
             CloseConfirm close = new CloseConfirm();
             close.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Login login = new PointOfSale_C_Sharp.Login();
+            this.Hide();
+            login.Show();
+        }
     }
 }

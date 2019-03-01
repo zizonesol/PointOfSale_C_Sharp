@@ -77,7 +77,8 @@
             this.Controls.Add(this.label1);
             this.Name = "CloseConfirm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "CloseConfirm";
+            this.Text = "Exit Window";
+            this.Load += new System.EventHandler(this.CloseConfirm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

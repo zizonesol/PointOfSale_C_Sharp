@@ -31,5 +31,10 @@ namespace PointOfSale_C_Sharp
         {
             this.Close();
         }
+
+        private void CloseConfirm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
