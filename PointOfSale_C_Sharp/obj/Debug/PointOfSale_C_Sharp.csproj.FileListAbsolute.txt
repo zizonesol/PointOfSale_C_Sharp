@@ -22,3 +22,5 @@ C:\Users\Grace\documents\visual studio 2015\Projects\PointOfSale_C_Sharp\PointOf
 C:\Users\Grace\documents\visual studio 2015\Projects\PointOfSale_C_Sharp\PointOfSale_C_Sharp\obj\Debug\PointOfSale_C_Sharp.exe
 C:\Users\Grace\documents\visual studio 2015\Projects\PointOfSale_C_Sharp\PointOfSale_C_Sharp\obj\Debug\PointOfSale_C_Sharp.pdb
 C:\Users\Grace\documents\visual studio 2015\Projects\PointOfSale_C_Sharp\PointOfSale_C_Sharp\obj\Debug\PointOfSale_C_Sharp.CloseConfirm.resources
+C:\Users\Grace\documents\visual studio 2015\Projects\PointOfSale_C_Sharp\PointOfSale_C_Sharp\obj\Debug\PointOfSale_C_Sharp.LogoutConfirm.resources
+C:\Users\Grace\documents\visual studio 2015\Projects\PointOfSale_C_Sharp\PointOfSale_C_Sharp\obj\Debug\PointOfSale_C_Sharp.FoodItem.resources

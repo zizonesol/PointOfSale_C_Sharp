@@ -76,6 +76,12 @@
     <Compile Include="CloseConfirm.Designer.cs">
       <DependentUpon>CloseConfirm.cs</DependentUpon>
     </Compile>
+    <Compile Include="FoodItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FoodItem.Designer.cs">
+      <DependentUpon>FoodItem.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,6 +94,12 @@
     <Compile Include="Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
+    <Compile Include="LogoutConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogoutConfirm.Designer.cs">
+      <DependentUpon>LogoutConfirm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -99,11 +111,17 @@
     <EmbeddedResource Include="CloseConfirm.resx">
       <DependentUpon>CloseConfirm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FoodItem.resx">
+      <DependentUpon>FoodItem.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogoutConfirm.resx">
+      <DependentUpon>LogoutConfirm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>

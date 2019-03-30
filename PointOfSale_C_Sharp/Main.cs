@@ -31,8 +31,48 @@ namespace PointOfSale_C_Sharp
         private void button2_Click(object sender, EventArgs e)
         {
             Login login = new PointOfSale_C_Sharp.Login();
-            this.Hide();
+            /*
+            LogoutConfirm logout = new PointOfSale_C_Sharp.LogoutConfirm();
+            logout.Show();
+            */
+
+            this.Close();
             login.Show();
+
+            /*
+            if (logout.yesBttnwasClicked)
+            {
+                this.Close();
+                login.Show();
+            }
+            */
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void togoBttn_Click(object sender, EventArgs e)
+        {
+            FoodItem item = new FoodItem();
+            item.Show();
+        }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
